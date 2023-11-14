@@ -1,1 +1,1 @@
-# opencv-android-sampless
+# opencv-android-samples
