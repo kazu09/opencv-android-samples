@@ -6,4 +6,8 @@
         android:id="@+id/view_finder"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+    <com.kazu.opencv_android_samples.view.FaceOverlayView
+        android:id="@+id/faceOverlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </FrameLayout>
